@@ -41,7 +41,7 @@ const Footer = () => {
           Referência:
           https://br.pinterest.com/pin/AVuDlMAl4GsQiM6nijH9YbG9bsNKpompSEOEHzig6GJ58AnUtMkSy7k/
         </S.P>
-        <S.P>&copy; by Taíse Jungthon</S.P>
+        <S.P>&copy; by Taíse Jungthon Torres</S.P>
       </S.ContainerInfo>
     </S.Footer>
   );
